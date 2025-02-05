@@ -1,6 +1,6 @@
 # template-repos-ts
 
-Template repository for using TypeScript
+Template repository for using TypeScript.
 
 # Stack
 
